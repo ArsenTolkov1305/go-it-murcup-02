@@ -165,3 +165,6 @@ li {
     color: #2e2f42
     line-height: 1.5;
 }
+.class-of-the-ul:focus {
+    color: #404bbf;
+}
