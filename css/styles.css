@@ -178,3 +178,6 @@ li {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.atribyte-addres:focus {
+    color: #404bbf;
+}
