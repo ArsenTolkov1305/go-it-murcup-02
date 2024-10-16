@@ -123,6 +123,7 @@ h3 {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    background-color: #F4F4FD;
 }
 .webstudio {
     font-family: "Raleway", sans-serif;
@@ -182,5 +183,5 @@ li {
     color: #404bbf;
 }
 .ul-third-section {
-    background-color: #FFFFFF
+    background-color: #F4F4FD;
 }
