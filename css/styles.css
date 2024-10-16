@@ -168,3 +168,6 @@ li {
 .class-of-the-ul:focus {
     color: #404bbf;
 }
+.li-fir-sec {
+    line-height: 1.5;
+}
