@@ -146,3 +146,9 @@ h3 {
 .head-ul:focus {
     colr: #404bbf;
 }
+.li-seconds {
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
