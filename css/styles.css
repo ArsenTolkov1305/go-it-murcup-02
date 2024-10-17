@@ -39,9 +39,7 @@ a:hover {
     font-size: 56px;
     font-weight: bold;
     line-height: 1.07;
-    letter-spacing: 0.02em;
-    color: #ffffff;
-    
+    letter-spacing: 0.02em;  
 }
 .button {
     background-color: #4D5AE5;
@@ -51,6 +49,7 @@ a:hover {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    color: #ffffff;
 }
 .button:hover {
     background-color: #404BBF;
